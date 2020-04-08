@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+    Display: block;
+    Margin-left: auto;
+    Margin-right: auto;
+    text-align: left;
+}
+
+
+.dropdown {
+    float: left;
+    background-clip: content-box;
+}
+
+header h1{
+	text-align: center;
+}
+
+header {
+	background-color: #F6CBCC; 
+	Display: block;
+	Margin-left: auto;
+	Margin-right: auto;
+}
+
+.container2 {
+	text-align: center;
+}
+
+button {
+	border-radius: 8px;
+	background-color: #F6CBCC;
+	float: right;
+} 

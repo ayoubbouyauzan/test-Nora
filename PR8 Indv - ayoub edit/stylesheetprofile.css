@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    Display: block;
+    Margin-left: auto;
+    Margin-right: auto;
+    text-align: left;
+}
+
+
+.dropdown {
+    float: left;
+    background-clip: content-box;
+}
+
+
+header h1{
+	text-align: center;
+}
+
+header {
+	background-color: #F6CBCC; 
+	Display: block;
+	Margin-left: auto;
+	Margin-right: auto;
+	background-attachment: fixed;
+}
+
+.container {
+    text-align: center;
+    background-image: url(Images/16442786-864a-4455-a508-7d8e4b83d143.JPG);
+    background-repeat: repeat-x;
+}
+
+.text-book {
+	float: left;
+}
+
+.text-followers {
+	float: right
+}
+
+.container4 {
+	background-color: #F6CBCC;
+}

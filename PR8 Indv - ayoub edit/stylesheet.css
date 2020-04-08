@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	Display: block;
+	Margin-left: auto;
+	Margin-right: auto;
+	text-align: center;
+}
+
+input:focus {
+	border-color: #F6CBCC;
+	box-shadow:#F6CBCC;
+}
+
+.button {
+	border-radius: 8px;
+	background-color: #F6CBCC;
+	text-decoration-style: none;
+} 
+
+.footer {
+	text-decoration-style: none;
+}

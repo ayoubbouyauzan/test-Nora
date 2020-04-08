@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body {
+	margin: 0;
+}
+
+.dropdown {
+	float: left;
+}
+
+header h1{
+	text-align: center;
+}
+
+header {
+	background-color: #F6CBCC; 
+	Display: block;
+	Margin-left: auto;
+	Margin-right: auto;
+	background-attachment: fixed;
+}
+
+.container {
+    Display: block;
+    Margin-left: auto;
+    Margin-right: auto;
+    text-align: justify;
+    float: none;
+}
+
+.fa-heart-o {
+  color: red;
+  cursor: pointer;
+}
+
+.fa-heart {
+  color: red;
+  cursor: pointer;
+}
+
+

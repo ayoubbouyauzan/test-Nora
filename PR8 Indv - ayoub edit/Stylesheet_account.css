@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+	Display: block;
+	Margin-left: auto;
+	Margin-right: auto;
+	text-align: center;
+}
+
+
+.button {
+	background-color: #F6CBCC;
+} 
